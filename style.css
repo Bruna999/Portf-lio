@@ -46,10 +46,6 @@
 
 .show-menu #line1{
     transform: rotate(45deg) translate(.3rem, .4rem);
-   /* margin-top: 1.9em;
-    transition: 1s;
-    transform: rotate(150deg);
-    color: black;*/
 }
 
 .show-menu #line2{
