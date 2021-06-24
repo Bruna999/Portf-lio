@@ -670,33 +670,3 @@ footer{
   border-radius: .3rem;
   box-shadow:  0 0.1rem 0.6rem #00000009;
 }
-
-/*.card-info h2{
-    font-family: var(--font-action);
-    position:relative;
-    bottom: 20rem;
-    color: #fff;
-}
-.card-info button{
-    border-radius: 2px;
-    cursor: pointer;
-    border: hidden;
-    background: #8E2DE2;  
-    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  
-    background: linear-gradient(to right, #4A00E0, #8E2DE2); 
-    font-family: var(--font-action);
-    left: 1rem;
-    right: 1rem;
-    font-size: medium;
-    text-decoration: medium;
-}*/
-
-footer p{
-    margin-top: 10rem;
-}
-
-/*.sessao-header h1:hover{
-    border-bottom: solid 3px #6a3093;
-    color: #6a3093;
-    transition: color 2s;
-}*/
