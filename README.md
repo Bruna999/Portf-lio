@@ -1,10 +1,10 @@
 # Portf-lio
 
-Portfólio do Desenvolvedor
+- Portfólio do Desenvolvedor
 
 ## Tarefas
 
-O controle das tarefas desse projeto será realizado no GitHub
+- O controle das tarefas desse projeto será realizado no GitHub
 
 ## icones
 
