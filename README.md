@@ -10,5 +10,5 @@
 
 - :package: nova funcionalidade </br>
 - :up: atualização </br>
-- :beetle: 🪲 correção de bug </br>
+- 🐞 correção de bug </br>
 - :checkered_flag: release </br>
