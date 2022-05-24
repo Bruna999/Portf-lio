@@ -1,6 +1,7 @@
 # Portfolio
 
 - Projeto de Portfólio do Desenvolvedor
+- Projeto Pessoal
 
 ## Tarefas
 
